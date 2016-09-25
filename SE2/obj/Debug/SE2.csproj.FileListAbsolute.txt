@@ -1,0 +1,9 @@
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\bin\Debug\SE2.exe.config
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\bin\Debug\SE2.exe
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\bin\Debug\SE2.pdb
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.csprojResolveAssemblyReference.cache
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.Form1.resources
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.Properties.Resources.resources
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.csproj.GenerateResource.Cache
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.exe
+C:\Users\jisuozhao\Desktop\代码\SE2\SE2\obj\Debug\SE2.pdb
